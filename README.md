@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently lea# Hey, I'm Samarth 👋<br><br>CSIT student at **AITR, Indore**<br><br>I build full-stack web apps, AI tools & automation systems.<br>Currently obsessed with making AI actually useful — not just impressive.<br><br>- 🧠 Building **Jarvis** — my own AI assistant<br>- 🌐 Shipped production 3D web projects for real clients<br>- ⚙️ Into LLMs, agents & workflow automation<br>- 📚 Learning DSA in C++<br><br>Open to collabs & internships → [LinkedIn](https://in.linkedin.com/in/samarth-maheshwari-71a152326)rning<br>💬 Ask me about<br>⚡ Fun fact
+Hey, I'm Samarth 👋<br><br>CSIT student at **AITR, Indore**<br><br>I build full-stack web apps, AI tools & automation systems.<br>Currently obsessed with making AI actually useful — not just impressive.<br><br>- 🧠 Building **Jarvis** — my own AI assistant<br>- 🌐 Shipped production 3D web projects for real clients<br>- ⚙️ Into LLMs, agents & workflow automation<br>- 📚 Learning DSA in C++<br><br>Open to collabs & internships → [LinkedIn](https://in.linkedin.com/in/samarth-maheshwari-71a152326)rning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
