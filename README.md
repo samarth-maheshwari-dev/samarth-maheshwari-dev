@@ -1,4 +1,4 @@
-# 💫 About Me:
+﻿# 💫 About Me:
 Hey, I'm Samarth Maheshwari 👋<br><br>CSIT student at **AITR, Indore**<br><br>I build full-stack web apps, AI tools & automation systems.<br>Currently obsessed with making AI actually useful — not just impressive.<br><br>- 🧠 Building **Jarvis** — my own AI assistant<br>- 🌐 Shipped production 3D web projects for real clients<br>- ⚙️ Into LLMs, agents & workflow automation<br>- 📚 Learning DSA in C++<br><br>Open to collabs & internships → [LinkedIn](https://in.linkedin.com/in/samarth-maheshwari-71a152326)           [Leetcode](https://leetcode.com/u/samarth4321/)<br>💬 Ask me about<br>⚡ Fun fact
 
 
@@ -13,6 +13,21 @@ Hey, I'm Samarth Maheshwari 👋<br><br>CSIT student at **AITR, Indore**<br><br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=samarth-maheshwari-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐍 Contribution Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/samarth-maheshwari-dev/samarth-maheshwari-dev/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/samarth-maheshwari-dev/samarth-maheshwari-dev/output/github-snake-light.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/samarth-maheshwari-dev/samarth-maheshwari-dev/output/github-snake-light.svg"
+  />
+</picture>
 
 
 [![](https://komarev.com/ghpvc/?username=samarth-maheshwari-dev&icon=0&color=0)](https://visitcount.itsvg.in)
